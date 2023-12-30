@@ -31,12 +31,12 @@ $ pkg install python
 
 
 
-$ pkg install git
+$ pkg install gh
 
 
 
 
-$ git clone gh repo clone Mr7aftour/forcegen
+$ gh repo clone Mr7aftour/forcegen
 
 
 
